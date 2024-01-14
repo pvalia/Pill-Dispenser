@@ -697,7 +697,7 @@
   height: 26.2px;
   opacity: 0;
   color: var(--color-gray-100);
-  font-family: 'SF Pro Display', Arial, sans-serif;
+  font-family: var(--font-poppins);
 }
 .days1 {
   position: absolute;
@@ -718,7 +718,7 @@
   height: 26.2px;
   opacity: 0;
   color: var(--color-gray-100);
-  font-family: 'SF Pro Display', Arial, sans-serif;
+  font-family: var(--font-poppins);
 }
 .div4 {
   height: 100%;
