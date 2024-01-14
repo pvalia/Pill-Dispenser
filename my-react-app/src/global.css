@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=SF+Pro+Display:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-sf-pro-display: "SF Pro Display";
+  --font-poppins: Poppins;
+  --font-manrope: Manrope;
+
+  /* font sizes */
+  --font-size-16xl-1: 35.1px;
+  --font-size-7xl-3: 26.3px;
+  --font-size-6xl: 25px;
+  --font-size-5xl-6: 24.6px;
+  --font-size-base-4: 16.4px;
+  --font-size-smi-3: 12.3px;
+  --font-size-xl-5: 20.5px;
+  --font-size-base-3: 15.3px;
+  --font-size-2xs-9: 10.9px;
+  --font-size-lg-4: 18.4px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-slateblue: #3e36b0;
+  --color-gray-100: #2b2b36;
+  --dmv-black: #23262f;
+  --color-gray-200: #0d0d0d;
+  --color-gray-300: rgba(0, 0, 0, 0.5);
+  --color-gray-400: rgba(255, 255, 255, 0.55);
+  --color-black: #000;
+  --color-white: #fff;
+  --color-red: #ff0000;
+  --color-deeppink: #f62088;
+
+  /* Paddings */
+  --padding-8xs-4: 4.4px;
+
+  /* Border radiuses */
+  --br-lg: 18px;
+  --br-base-4: 16.4px;
+  --br-25xl-6: 44.6px;
+}
