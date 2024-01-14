@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Pill-Dispenser/static/css/main.9840235b.css",
-    "main.js": "/Pill-Dispenser/static/js/main.efeb0541.js",
+    "main.css": "/Pill-Dispenser/static/css/main.44c0a288.css",
+    "main.js": "/Pill-Dispenser/static/js/main.2c9b7d8e.js",
     "static/js/787.38f16daf.chunk.js": "/Pill-Dispenser/static/js/787.38f16daf.chunk.js",
     "index.html": "/Pill-Dispenser/index.html",
-    "main.9840235b.css.map": "/Pill-Dispenser/static/css/main.9840235b.css.map",
-    "main.efeb0541.js.map": "/Pill-Dispenser/static/js/main.efeb0541.js.map",
+    "main.44c0a288.css.map": "/Pill-Dispenser/static/css/main.44c0a288.css.map",
+    "main.2c9b7d8e.js.map": "/Pill-Dispenser/static/js/main.2c9b7d8e.js.map",
     "787.38f16daf.chunk.js.map": "/Pill-Dispenser/static/js/787.38f16daf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9840235b.css",
-    "static/js/main.efeb0541.js"
+    "static/css/main.44c0a288.css",
+    "static/js/main.2c9b7d8e.js"
   ]
 }

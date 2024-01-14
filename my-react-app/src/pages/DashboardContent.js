@@ -14,7 +14,7 @@ const DashboardContent = () => {
                 <img
                   className="namesection-child"
                   alt=""
-                  src="/rectangle-39905.svg"
+                  src="images/rectangle-39905.svg"
                 />
                 <div className="name">Name</div>
                 <textarea className="namebox" placeholder="Name" />
@@ -39,7 +39,7 @@ const DashboardContent = () => {
             <div className="rectangle-parent">
               <div className="group-child" />
               <div className="vector-parent">
-                <img className="group-item" alt="" src="/vector-4.svg" />
+                <img className="group-item" alt="" src="images/vector-4.svg" />
                 <div className="group-parent">
                   <div className="group-wrapper">
                     <div className="group-wrapper">
@@ -53,16 +53,16 @@ const DashboardContent = () => {
                   <img
                     className="group-icon"
                     alt=""
-                    src="/group-1000000893.svg"
+                    src="images/group-1000000893.svg"
                   />
                 </div>
                 <div className="group-container">
                   <div className="group-group">
-                    <img className="group-icon1" alt="" src="/group.svg" />
+                    <img className="group-icon1" alt="" src="images/group.svg" />
                     <div className="fever">Heart Burn</div>
                   </div>
                   <div className="group-div">
-                    <img className="group-icon2" alt="" src="/group@2x.png" />
+                    <img className="group-icon2" alt="" src="images/group@2x.png" />
                     <div className="cough">Cough</div>
                   </div>
                 </div>
@@ -108,7 +108,7 @@ const DashboardContent = () => {
             <img
               className="rectangle-icon"
               alt=""
-              src="/rectangle-39896@2x.png"
+              src="images/rectangle-39896@2x.png"
             />
             <div className="equitable-medical-education">
               Equitable medical education with efforts toward real change
@@ -120,8 +120,8 @@ const DashboardContent = () => {
           <div className="january-2024-parent">
             <div className="january-2024">January 2024</div>
             <div className="icons-parent">
-              <img className="icons" alt="" src="/icons.svg" />
-              <img className="icons1" alt="" src="/icons@2x.png" />
+              <img className="icons" alt="" src="images/icons.svg" />
+              <img className="icons1" alt="" src="images/icons@2x.png" />
             </div>
             <div className="line-div" />
             <div className="week-base">
@@ -251,7 +251,7 @@ const DashboardContent = () => {
             </div>
             <div className="calendar-parent">
               <div className="calendar1">Calendar</div>
-              <img className="icons1" alt="" src="/icons@2x.png" />
+              <img className="icons1" alt="" src="images/icons@2x.png" />
             </div>
           </div>
           <div className="frame-parent">
@@ -277,8 +277,8 @@ const DashboardContent = () => {
         </div>
         <div className="header">
           <div className="icons3">
-            <img className="icons-2" alt="" src="/icons2.svg" />
-            <img className="icons-child" alt="" src="/frame-58.svg" />
+            <img className="icons-2" alt="" src="images/icons2.svg" />
+            <img className="icons-child" alt="" src="images/frame-58.svg" />
           </div>
           <div className="search-bar">
             <div className="search-bar-child" />
@@ -291,7 +291,7 @@ const DashboardContent = () => {
               <img
                 className="next-circle-child"
                 alt=""
-                src="/ellipse-38@2x.png"
+                src="images/ellipse-38@2x.png"
               />
             </div>
           </div>
@@ -317,7 +317,7 @@ const DashboardContent = () => {
                     <img
                       className="med-3-child"
                       alt=""
-                      src="/rectangle-39904.svg"
+                      src="images/rectangle-39904.svg"
                     />
                     <div className="vitamin-c">Dizopam</div>
                   </div>

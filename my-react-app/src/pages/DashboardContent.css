@@ -697,7 +697,7 @@
   height: 26.2px;
   opacity: 0;
   color: var(--color-gray-100);
-  font-family: var(--font-sf-pro-display);
+  font-family: 'SF Pro Display', Arial, sans-serif;
 }
 .days1 {
   position: absolute;
