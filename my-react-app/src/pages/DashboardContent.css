@@ -49,7 +49,7 @@
 .namebox {
   border: 0;
   background-color: transparent;
-  font-family: var(--font-poppins);
+  font-family: var(--font-sans-serif);
   font-size: var(--font-size-xl);
   outline: 0;
   top: 24.7px;
@@ -79,7 +79,7 @@
 .agebox {
   border: 0;
   background-color: transparent;
-  font-family: var(--font-poppins);
+  font-family: var(--font-sans-serif);
   font-size: var(--font-size-xl);
   outline: 0;
   top: 24.7px;
@@ -109,7 +109,7 @@
 .genderbox {
   border: 0;
   background-color: transparent;
-  font-family: var(--font-poppins);
+  font-family: var(--font-sans-serif);
   font-size: var(--font-size-xl);
   outline: 0;
   top: 24.7px;
@@ -141,7 +141,7 @@
 .emailbox {
   border: 0;
   background-color: transparent;
-  font-family: var(--font-poppins);
+  font-family: var(--font-sans-serif);
   font-size: var(--font-size-xl);
   outline: 0;
   top: 24.7px;
@@ -697,7 +697,7 @@
   height: 26.2px;
   opacity: 0;
   color: var(--color-gray-100);
-  font-family: var(--font-poppins);
+  font-family: var(--font-sans-serif);
 }
 .days1 {
   position: absolute;
@@ -718,7 +718,7 @@
   height: 26.2px;
   opacity: 0;
   color: var(--color-gray-100);
-  font-family: var(--font-poppins);
+  font-family: var(--font-sans-serif);
 }
 .div4 {
   height: 100%;
@@ -1012,7 +1012,7 @@
   font-size: var(--font-size-smi-3);
   text-decoration: underline;
   line-height: 24.58px;
-  font-family: var(--font-poppins);
+  font-family: var(--font-sans-serif);
   color: #1a71ff;
 }
 .upcoming-parent {
@@ -1103,7 +1103,7 @@
   width: 410.8px;
   height: 63.5px;
   font-size: var(--font-size-base-4);
-  font-family: var(--font-poppins);
+  font-family: var(--font-sans-serif);
 }
 .frame-parent {
   top: 381px;
@@ -1342,7 +1342,7 @@
 }
 .hr1 {
   font-size: var(--font-size-16xl-1);
-  font-family: var(--font-poppins);
+  font-family: var(--font-sans-serif);
   color: var(--color-slateblue);
 }
 .nextmedin-txt {
@@ -1411,6 +1411,6 @@
   text-align: left;
   font-size: var(--font-size-lg-4);
   color: var(--color-black);
-  font-family: var(--font-poppins);
+  font-family: var(--font-sans-serif);
 }
 
