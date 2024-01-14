@@ -59,15 +59,11 @@ const DashboardContent = () => {
                 <div className="group-container">
                   <div className="group-group">
                     <img className="group-icon1" alt="" src="/group.svg" />
-                    <div className="fever">Fever</div>
+                    <div className="fever">Heart Burn</div>
                   </div>
                   <div className="group-div">
                     <img className="group-icon2" alt="" src="/group@2x.png" />
                     <div className="cough">Cough</div>
-                  </div>
-                  <div className="group-parent1">
-                    <img className="group-icon3" alt="" src="/group.svg" />
-                    <div className="heart-burn">Heart Burn</div>
                   </div>
                 </div>
                 <div className="group-parent2">
@@ -125,7 +121,7 @@ const DashboardContent = () => {
             <div className="january-2024">January 2024</div>
             <div className="icons-parent">
               <img className="icons" alt="" src="/icons.svg" />
-              <img className="icons1" alt="" src="/icons1@2x.png" />
+              <img className="icons1" alt="" src="/icons@2x.png" />
             </div>
             <div className="line-div" />
             <div className="week-base">
@@ -255,7 +251,7 @@ const DashboardContent = () => {
             </div>
             <div className="calendar-parent">
               <div className="calendar1">Calendar</div>
-              <img className="icons1" alt="" src="/icons2@2x.png" />
+              <img className="icons1" alt="" src="/icons@2x.png" />
             </div>
           </div>
           <div className="frame-parent">
@@ -281,7 +277,7 @@ const DashboardContent = () => {
         </div>
         <div className="header">
           <div className="icons3">
-            <img className="icons-2" alt="" src="/icons21.svg" />
+            <img className="icons-2" alt="" src="/icons2.svg" />
             <img className="icons-child" alt="" src="/frame-58.svg" />
           </div>
           <div className="search-bar">
